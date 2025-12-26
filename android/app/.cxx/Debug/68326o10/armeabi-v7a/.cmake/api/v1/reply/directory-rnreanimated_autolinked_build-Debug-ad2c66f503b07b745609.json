@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "rnreanimated_autolinked_build",
+		"source" : "/Users/kwk/Desktop/react-native/ProjectWK_K/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni"
+	}
+}
