@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://maumapp.cafe24.com'; //본 아이피
